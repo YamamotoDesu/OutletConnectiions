@@ -46,3 +46,10 @@ class OutletConnectionsViewControllerTests: XCTestCase {
 }
 
 ```
+
+
+------
+
+### 🖌 Outletの変数をprivate(set)に変更することで、テストクラスでGetメソッドを呼び出し可能
+
+<img width="854" alt="スクリーンショット 2022-07-24 17 40 01" src="https://user-images.githubusercontent.com/47273077/180639357-c87d0fcb-5e6e-4b31-8dfb-20f527ca9680.png">
